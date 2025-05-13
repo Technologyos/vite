@@ -8,8 +8,8 @@ const passenger1: Passenger = {
 }
 
 const passenger2: Passenger = {
-    name: 'Melissa',
-    children: ['Natalia','Elizabeth'],
+    name: 'Miriam',
+    children: ['Emma','Jesus'],
 }
 
 const returnChildrenNumber = ( passenger: Passenger ): number => {
